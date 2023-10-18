@@ -1,0 +1,9 @@
+1- Copie os arquivos 'docker-compose.yml' e 'Dockerfile' 
+
+2- Coloque os arquivos na pasta do projeto     
+
+3- Crie uma pasta com o nome 'php' dentro da pasta do projeto (Nome da pasta pode ser alterado em conjunto com a parte de volumes do container phpapache)
+
+4- No terminal de o comando 'docker-compose up --build' 
+
+5- Coloque os arquivos da pagina dentro da pasta do item 3
